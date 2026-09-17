@@ -1,5 +1,4 @@
-#WAP a python program to input numbers in a list and create two separate lists for even and odd numbers 
-
+#WAP a python program to input numbers in a list containing unique elements 
 n = int(input("Enter number of elements: "))
 numbers = []
 unique = []
